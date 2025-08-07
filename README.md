@@ -150,7 +150,6 @@ timeline
   
 **💡 "Building products that don't just work, but drive business results"**
 
-![Visitor Count](https://profile-counter.glitch.me/arunabhpriyadarshi/count.svg)
 
 ⭐️ *Available for remote Tech Lead/Architect opportunities*
 
